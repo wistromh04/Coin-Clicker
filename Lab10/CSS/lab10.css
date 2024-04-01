@@ -1,0 +1,35 @@
+.root {
+   -fx-font-family: serif;
+   -fx-font-size: 12pt;
+   -fx-background-color: white;
+   }
+
+.coin-Label {
+  -fx-font-size: 14pt;
+  -fx-font-weight: bold;
+  -fx-text-alignment: center;
+}
+
+.button {
+   -fx-text-alignment: center;
+   -fx-background-color: black;
+   -fx-text-fill: white;
+}
+
+.menu-Bar {
+    -fx-background-color: #8CB3F2;
+    -fx-font-family: Sans-serif;
+}
+
+.title-Label {
+    -fx-font-size: 16pt;
+    -fx-font-family: Sans-serif;
+}
+
+.title-Label:hover {
+    -fx-font-weight: bold;
+}
+
+VBox {
+
+}
